@@ -1,6 +1,0 @@
-C:\Dev\srssTitleGetter\srssTitleGetter\bin\Debug\srssTitleGetter.exe.config
-C:\Dev\srssTitleGetter\srssTitleGetter\bin\Debug\srssTitleGetter.exe
-C:\Dev\srssTitleGetter\srssTitleGetter\bin\Debug\srssTitleGetter.pdb
-C:\Dev\srssTitleGetter\srssTitleGetter\obj\Debug\srssTitleGetter.csprojResolveAssemblyReference.cache
-C:\Dev\srssTitleGetter\srssTitleGetter\obj\Debug\srssTitleGetter.exe
-C:\Dev\srssTitleGetter\srssTitleGetter\obj\Debug\srssTitleGetter.pdb
